@@ -1,0 +1,3 @@
+/Users/hsb/Exercism/cpp/hello-world/CMakeFiles/rebuild_cache.dir
+/Users/hsb/Exercism/cpp/hello-world/CMakeFiles/edit_cache.dir
+/Users/hsb/Exercism/cpp/hello-world/CMakeFiles/hello-world.dir
